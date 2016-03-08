@@ -12,6 +12,8 @@
 		A2CF06741C8D22820097D1ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2CF06721C8D22820097D1ED /* Main.storyboard */; };
 		A2CF06761C8D22820097D1ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2CF06751C8D22820097D1ED /* Assets.xcassets */; };
 		A2CF06791C8D22820097D1ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2CF06771C8D22820097D1ED /* LaunchScreen.storyboard */; };
+		A2CF06811C8D554B0097D1ED /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2CF06801C8D554B0097D1ED /* Minecraft.ttf */; };
+		A2CF06831C8D70D60097D1ED /* button-3.wav in Resources */ = {isa = PBXBuildFile; fileRef = A2CF06821C8D70D60097D1ED /* button-3.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A2CF06751C8D22820097D1ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2CF06781C8D22820097D1ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2CF067A1C8D22820097D1ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2CF06801C8D554B0097D1ED /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		A2CF06821C8D70D60097D1ED /* button-3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "button-3.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +58,9 @@
 		A2CF066D1C8D22820097D1ED /* retro-calculator */ = {
 			isa = PBXGroup;
 			children = (
+				A2CF06801C8D554B0097D1ED /* Minecraft.ttf */,
 				A2CF066E1C8D22820097D1ED /* AppDelegate.swift */,
+				A2CF06821C8D70D60097D1ED /* button-3.wav */,
 				A2CF06701C8D22820097D1ED /* ViewController.swift */,
 				A2CF06721C8D22820097D1ED /* Main.storyboard */,
 				A2CF06751C8D22820097D1ED /* Assets.xcassets */,
@@ -124,7 +130,9 @@
 			files = (
 				A2CF06791C8D22820097D1ED /* LaunchScreen.storyboard in Resources */,
 				A2CF06761C8D22820097D1ED /* Assets.xcassets in Resources */,
+				A2CF06811C8D554B0097D1ED /* Minecraft.ttf in Resources */,
 				A2CF06741C8D22820097D1ED /* Main.storyboard in Resources */,
+				A2CF06831C8D70D60097D1ED /* button-3.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
